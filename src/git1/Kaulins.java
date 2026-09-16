@@ -44,7 +44,7 @@ public class Kaulins {
 		case 2: 
 			System.out.println("Programma ir apturēta!");
 			break;
-		case 4: 
+		case 3: 
 			System.out.println("3+3 = " + (3+3));
 			break;
 		}

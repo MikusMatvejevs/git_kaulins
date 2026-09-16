@@ -1,4 +1,4 @@
-package GitTest;
+package git1;
 
 import java.util.Random;
 import java.util.Scanner;
